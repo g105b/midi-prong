@@ -1,0 +1,56 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PRONG</title>
+<link rel="stylesheet" href="/style.css" />
+<h1>PRONG</h1>
+
+<fieldset class="drone">
+	<legend>Drone oscillators</legend>
+
+	<label>
+		<span>OSC 0</span>
+		<input type="range" name="osc[0]" min="-1024" max="1024" value="0" />
+	</label>
+	<label>
+		<span>OSC 1</span>
+		<input type="range" name="osc[1]" min="-1024" max="1024" value="0" />
+	</label>
+	<label>
+		<span>OSC 2</span>
+		<input type="range" name="osc[2]" min="-1024" max="1024" value="0" />
+	</label>
+	<label>
+		<span>OSC 3</span>
+		<input type="range" name="osc[3]" min="-1024" max="1024" value="0" />
+	</label>
+</fieldset>
+
+<fieldset class="prong">
+	<legend>Prong (drone ping pong)</legend>
+
+	<label>
+		<input type="range" name="prong" min="0" max="1024" value="0" />
+	</label>
+</fieldset>
+
+<fieldset>
+	<legend>Register</legend>
+
+	<button name="do" value="set">SET</button>
+	<button name="do" value="clr">CLR</button>
+
+	<label>
+                <select name="register"></select>
+        </label>
+</fieldset>
+
+<fieldset>
+	<legend>System</legend>
+
+	<button name="do" value="start">START</button>
+	<button name="do" value="stop">STOP</button>
+	<button name="do" value="learn">LEARN</button>
+</fieldset>
+
+<script src="script.js"></script>
