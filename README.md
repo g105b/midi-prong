@@ -36,17 +36,12 @@ Instead of using the START/STOP/LEARN buttons, each oscillator will have its own
 
 Items are purchased locally where possible. [RF Potts](https://www.rfpotts.com/) in Derby, UK is a good supplier of hobby electronics parts.
 
-Hardware:
-
 - 1 x metal enclosure box: £5.00
 - 4 x 13 mm pot knobs: £0.63 ea
 - 1 x 30 mm pot knob: £1.26 ea
 - 4 x On/off toggle switch: £1.25 ea
 - 1 x metal push-to-make button: £2.00 ea
 - 1 x surface-mountable female MIDI port: £0.40 ea
-
-Electronics:
-
 - 1 x stripboard: £1.50 ea
 - 1 x ATMEGA328P microcontroller: £5.49 ea
 - 1 x 7805 voltage regulator: £0.68 ea
