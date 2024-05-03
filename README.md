@@ -32,4 +32,29 @@ There will be only one button on the physical product, which will have three fun
 
 Instead of using the START/STOP/LEARN buttons, each oscillator will have its own on-off switch. This also helps when tuning an oscillator, allowing the others to be temporarily muted.
 
+### Bill of materials
+
+Items are purchased locally where possible. [RF Potts](https://www.rfpotts.com/) in Derby, UK is a good supplier of hobby electronics parts.
+
+Hardware:
+
+- 1 x metal enclosure box: £5.00
+- 4 x 13 mm pot knobs: £0.63 ea
+- 1 x 30 mm pot knob: £1.26 ea
+- 4 x On/off toggle switch: £1.25 ea
+- 1 x metal push-to-make button: £2.00 ea
+- 1 x surface-mountable female MIDI port: £0.40 ea
+
+Electronics:
+
+- 1 x stripboard: £1.50 ea
+- 1 x ATMEGA328P microcontroller: £5.49 ea
+- 1 x 7805 voltage regulator: £0.68 ea
+- 2 x 22 0Ω resistor: £0.05 ea
+- 1 x 10 kΩ resistor: £0.05 ea
+- 2 x 10 uF capacitor: £0.32 ea
+- 1 x 16 MHz clock crystal: £0.55 ea
+- 2 x 22 pF capacitor: £0.28 ea
+- 5 x 10 kΩ linear potentiometers: £1.60 ea
+
 // TODO: Hardware is currently WIP
